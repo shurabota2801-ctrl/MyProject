@@ -1,0 +1,2 @@
+# MyProject
+Python, Django, PostGreSQL
