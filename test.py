@@ -1,5 +1,6 @@
 def qwerty(a, b):
-    q = a + b
+    с = 10
+    q = a + b + с
     return q 
-    
+
 
